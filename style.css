@@ -1,0 +1,32 @@
+.tarjeta {
+  max-width: 300px;
+  background-color: hsl(109, 34%, 36%);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.titulo {
+  padding: 16px;
+  background-color: hsl(109, 34%, 36%);
+  text-align: center;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.cuerpo {
+  padding: 16px;
+}
+
+.cuerpo img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.pie {
+  padding: 16px;
+  background-color: #0084ff;
+  text-align: center;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
